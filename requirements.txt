@@ -1,0 +1,12 @@
+ipython
+jupyter
+ipywidgets
+einops==0.8.0
+tqdm
+PyYAML
+numpy==1.26
+pandas==2.0.1
+scikit-learn
+scipy
+torch-spatiotemporal
+torchdiffeq
