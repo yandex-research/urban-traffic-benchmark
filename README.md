@@ -18,7 +18,7 @@ pip install -r requirements.txt
 # Datasets
 
 ## Access to `city-traffic-M/L`
-1) To access the datasets, download the files from Kaggle -- [datasets page](https://kaggle.com/datasets/TODO).
+1) To access the datasets, download the files from Kaggle -- [datasets page]([https://kaggle.com/datasets/TODO](https://www.kaggle.com/datasets/mightyneghbor/city-traffic-benchmarks/data)).
 2) After download, place the files in the `data` directory
 
 **NOTE**: Croissant file for the dataset is available in `croissant` directory.
