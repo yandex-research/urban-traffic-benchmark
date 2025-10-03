@@ -1,4 +1,8 @@
 # Fine-Grained Urban Traffic Forecasting on Metropolis-Scale Road Networks
+[![arXiv](https://img.shields.io/badge/arXiv-2506.12345-b31b1b.svg)](https://arxiv.org/abs/2510.02278)
+[![Kaggle Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/datasets/mightyneghbor/city-traffic-benchmarks)
+
+
 
 # Installation
 To install all packages, you need to install `conda` package manager. Then, run the following commands: 
